@@ -1,0 +1,101 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+#form1{
+        width: 400px;
+        background: #24303c;
+        padding: 30px;
+        margin: auto;
+        margin-top:  50px;
+        border-radius: 4px;
+        font-family: 'calibri';
+        color: white;
+
+    
+        
+}
+
+.controls {
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+.Button{
+width: 100%;
+background: #1f53c5;
+border: none;
+padding: 12px;
+color: white;
+margin: 16px 0;
+font-size: 16px;
+}
+
+#form1 p,h4{
+    text-align: center;
+    font-size: 18px;
+    height: 40px;
+}
+#form1 a{
+    color: white;
+    text-decoration: none;
+    
+    
+}
+
+.body1{
+    background-color:  #000000;
+}
+#div1{
+    display: flex;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    background-color: #000000;
+    padding: 10px;
+    align-items: center;
+
+}
+nav a{
+    padding-right: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
+
+#body2{
+    font-family: sans-serif;
+    margin: 0;
+}
+h1{
+    color: white;
+}
+
+#buscar{
+    width: 700px;
+    height: 40px;
+    margin: 0 auto;
+    
+}
+img{
+    width: 200PX;
+    border-radius: 20px;
+
+    
+    
+}
+.div9{
+    display: flex;
+    
+}
